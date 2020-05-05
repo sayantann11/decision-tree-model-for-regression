@@ -1,2 +1,3 @@
-# decision-tree-model-for-regression
+# decision-tree-model-for-regression and random forest
 Python | Decision Tree Regression using sklearn. Decision Tree is a decision-making tool that uses a flowchart-like tree structure or is a model of decisions and all of their possible results, including outcomes, input costs and utility. Decision-tree algorithm falls under the category of supervised learning algorithms ...
+A Random Forest is an ensemble technique capable of performing both regression and classification tasks with the use of multiple decision trees and a technique called Bootstrap Aggregation, commonly known as bagging. 
